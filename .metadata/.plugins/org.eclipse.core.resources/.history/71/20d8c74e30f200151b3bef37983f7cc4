@@ -1,0 +1,2 @@
+The method setName(String) is undefined for the type PersonPerson p = new Person();
+p.setName("FRED");p
