@@ -32,7 +32,7 @@ public void setMaximumBooks(int maximumBooks) {
 	
 @Override
 public String toString() {
-	return this.getName() + " and has " + this.getMaximumBooks() + " books in his list";
+	return this.getName() + " haas " + this.getMaximumBooks() + " books in his list";
 }
 
 

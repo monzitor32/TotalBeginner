@@ -15,7 +15,7 @@ public class BookTest {
 		
 	}
 
-	@Test	
+	
 	public void testGetPerson() {
 		Book b2 = new Book("The Orient Express");
 		Person p2 = new Person();
